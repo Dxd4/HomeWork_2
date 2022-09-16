@@ -2,7 +2,8 @@ package HomeWork;
 
 public class Main {
     public static void main(String[] args) {
-        // Задание 1
+        // ЫЫЫ Я ПРАГРАМИСТ !!!
+        // Задание 1 
         Student student = new Student("Ivan", "Ivanov", "pks121", 3.1);
         Aspirant aspirant = new Aspirant("Ivan", "Stepanovich", "pi122", 5, "toilet");
         Student[] students = {student, aspirant};
