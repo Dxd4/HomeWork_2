@@ -2,7 +2,7 @@ package HomeWork;
 
 public class Main {
     public static void main(String[] args) {
-        // ЫЫЫ Я ПРАГРАМИСТ !!!
+        // Hello from Dxd4
         // Задание 1 
         Student student = new Student("Ivan", "Ivanov", "pks121", 3.1);
         Aspirant aspirant = new Aspirant("Ivan", "Stepanovich", "pi122", 5, "toilet");
